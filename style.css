@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+.clear{
+    clear: both;
+    display: block;
+}
+.search{
+    height: 30px;
+    margin-right: -32px;
+    background: #474E58;
+    border: 2px solid #5A697D;
+    border-radius: 5px;
+}
+.bton{
+    width: 26px;
+    height: 26px;
+    border: none;
+    background: #474E58;
+}
+.w{
+    color: white;
+}
+.w:hover{
+    color: white;
+}
+.text{
+    padding-left: 15px;
+}
+/* .head{
+    height: 60px;
+    background: #323A45;
+    padding: 10px 0px;
+} */
+.hed{
+    height: 60px;
+    background: #323A45;
+    padding-top: 15px;
+
+}
+.pull-right{
+    padding-top: 5px;
+}
+
+/* headerbar */
+.headbar{
+    background: #EAEDF1;
+    height: 120px;
+    line-height: 120px;
+}
+/* .headbar ul li{
+    display: inline;
+} */  
+.endhead{
+    height: 160px;
+    background: #1AC4B4;
+}
+.site-text{
+    margin: 0 auto;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Ubuntu, sans-serif;
+    font-size: 3.333em;
+    padding-top: 28px;
+}
+.site-name{
+    margin: 0 auto;
+    text-align: center;
+    font-size: 1.667em;
+}
+/* nvabar */
+.navbar{
+    height: 50px;
+    background: #EAEDF1;
+}
+.menu ul li{
+   float: left;
+   width: 10%;
+}
+.menu ul li a i{
+    padding: 0px 8px;
+}
+.menu ul{
+    padding-top: 15px;
+}
+/* .menu ul{
+    text-align: center;
+    width: 40px;
+} */

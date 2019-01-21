@@ -1,0 +1,17 @@
+.head{
+    background: skyblue;
+    font-family:  "Times New Roman", Times, serif;
+    font-size: 16px;
+}
+.center{
+    text-align: center;
+}
+.pull-left{
+    width: 180px;
+}
+.my-skill li{
+    text-decoration: none;
+}
+li{
+    text-decoration: none;
+}
